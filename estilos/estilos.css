@@ -84,6 +84,7 @@ main a {
     text-decoration: none;
     border-radius: 8%;
     padding: 1rem;
+    color: #fff;
     background-color: #8c5330;
     font-weight: 600;
 }
