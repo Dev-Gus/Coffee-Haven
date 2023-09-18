@@ -44,6 +44,7 @@ header {
 .nav-bar li a {
     text-decoration: none;
     font-weight: bold;
+    color: #f3e8e3;
 }
 
 h1, h2, h3 {
@@ -84,13 +85,16 @@ main a {
     text-decoration: none;
     border-radius: 8%;
     padding: 1rem;
-    color: #fff;
     background-color: #8c5330;
     font-weight: 600;
 }
 
 main a:hover {
     background-color: #452e20;
+}
+
+.btn {
+    color: #f3e8e3;
 }
 
 footer {
